@@ -11,7 +11,7 @@ Tech Stack:
  - Ferramentas: Git, GitHub, Power BI e Excel Avançado.
 
 
-📫 Contato: dev.pedrolopes21@gmail.com 🔗 LinkedIn: linkedin.com/in/pedro-lopes-627313283/ 
+📫 Contato: dev.pedrolopes23@gmail.com 🔗 LinkedIn: linkedin.com/in/pedro-lopes-627313283/ 
 <!---
 Phenriqu3/Phenriqu3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

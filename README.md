@@ -19,6 +19,7 @@ Análise de Dados: Atuei por 1 ano na Fisiocorpore estruturando bancos de dados 
 Desenvolvimento Web: Planejei e executei o site oficial da Fatto Assessoria utilizando HTML5, CSS3 e JavaScript focando em responsividade.  
 
 📜 Certificações & Educação
+
 🎓 Graduação em ADS: Uniprojeção (Concluído em 2025).  
 📜 Cursos: Programação Web, Java, PHP com MySQL e Desenvolvimento Avançado em Python.  
 📜 Lógica: Especialização em Lógica de Programação e Algoritmos.  
